@@ -5,7 +5,7 @@
 }(this, (function () {
   var test = {
     sayHi: function () {
-      console.log('hi, this is the version of 2');
+      console.log('hi, this is the version of 1.0.4');
     }
   };
 
