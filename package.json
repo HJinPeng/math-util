@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it",
-    "lint": "./node_modules/.bin/eslint index.js"
+    "lint": "./node_modules/.bin/eslint package.json"
   },
   "repository": {
     "type": "git",
