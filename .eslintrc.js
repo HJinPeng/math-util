@@ -1,7 +1,4 @@
 module.exports = {
-    "hooks": {
-        "before:init": ["npm run lint"],
-    },
     "env": {
         "browser": true,
         "es2021": true
