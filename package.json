@@ -1,0 +1,26 @@
+{
+  "name": "@jinpengh/math-util",
+  "version": "1.0.2",
+  "description": "this is a demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HJinPeng/math-util.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "jinpengh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HJinPeng/math-util/issues"
+  },
+  "homepage": "https://github.com/HJinPeng/math-util#readme",
+  "devDependencies": {
+    "release-it": "^14.11.6"
+  }
+}
