@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/HJinPeng/math-util#readme",
   "devDependencies": {
+    "eslint": "^7.32.0",
     "release-it": "^14.11.6"
   }
 }
